@@ -8,6 +8,7 @@
 #include "Modules/ModuleManager.h"
 
 class UThumbnailToTextureSettings;
+class UCustomBlueprintRenderer;
 
 class IThumbnailToTextureToolModule
 	: public IModuleInterface
